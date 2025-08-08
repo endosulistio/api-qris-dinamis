@@ -1,1 +1,1 @@
-sudo pm2 start --name 'API Genrate QRIS Dinamis' server.js
+sudo pm2 start --name 'API Generate QRIS Dinamis' server.js
